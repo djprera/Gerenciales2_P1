@@ -1,1 +1,1 @@
-"# Gerenciales2_P1" 
+Primera Práctica. Gerenciales 2, Vacaciones Diciembre 2017.
